@@ -1,0 +1,17 @@
+.transaction-item {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.delete-button {
+  height: 50%;
+  width: 50%;
+  margin-top: 10px;
+}
